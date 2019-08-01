@@ -8,17 +8,20 @@
 
     <style>
     
-    html { 
-  background: url(img/frontend/placeholders/bagtwoloadingscreen.gif) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
+   body { 
+  background: url(img/frontend/placeholders/bagtwoloadingscreen.gif) no-repeat  50% 50% fixed; 
+  -webkit-background-size: contain;
+  -moz-background-size: contain;
+  -o-background-size: contain;
+  background-size: contain;
+} 
+
+
+
     
     </style>
 </head>
 <body>
-    
+
 </body>
 </html>
