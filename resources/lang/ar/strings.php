@@ -68,7 +68,7 @@ return [
 <p>أتمنى أن تستمع بالمجهود الذي بذلته في هذا العمل. الرجاء زيارة صفحة <a href="https://notbrownpaperbag.com" target="_blank">GitHub</a> للمزيد من المعلومات أو <a href="https://notbrownpaperbag.com/issues" target="_blank">الإبلاغ عن الأخطاء أو المشاكل</a>.</p>
 <p><strong>هذا المشروع من الصعب عليه جدا مواكبة المعدل الذي يتغير عليه فرع Laravel الرئيسي، لذلك أي مساعدة سوف تكون محل تقدير.</strong></p>
 <p>- أنتوني ربّا</p>
-<p>- Anthony Rappa</p>',
+<p>- Nathan Antwi</p>',
     ],
 
     'emails' => [
